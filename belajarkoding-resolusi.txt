@@ -2,3 +2,5 @@ Belajar Koding Resolusi
 - Konsisten untuk belajar 5 Bulan ke depan
 - memperbanyak latihan project sederhana
 - rajin belajar dan baca buku
+- Belajar PHP
+- Belajar OOP PHP
